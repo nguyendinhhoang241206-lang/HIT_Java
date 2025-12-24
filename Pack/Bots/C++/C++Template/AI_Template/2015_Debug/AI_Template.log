@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(53,68): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(97,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(97,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(166,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(166,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(166,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(166,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(207,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(207,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(207,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(207,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(288,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(288,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(298,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(298,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(302,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(302,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AI_Template.vcxproj -> C:\Users\DELL\Desktop\Pack\Bots\C++\C++Template\2015_Debug\AI_Template.exe
